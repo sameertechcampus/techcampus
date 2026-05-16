@@ -1,0 +1,15 @@
+# Excel temporary lock files
+~$*.xlsx
+
+# Generated backup copies from workbook iterations
+*.backup_*.xlsx
+*.before_*.xlsx
+*.pre_formula_fix_*.xlsx
+*.dashboard_total_fix_*.xlsx
+*-1.xlsx
+staff_yearly_leave_2026.xlsx
+
+# Scratch build folders/files
+xlsx_build*/
+xlsx_fix*/
+*.zip
